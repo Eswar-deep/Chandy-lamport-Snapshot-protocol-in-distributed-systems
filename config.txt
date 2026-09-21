@@ -1,0 +1,16 @@
+# six global parameters
+5 6 10 100 2000 40
+
+# id host port
+0 localhost 9000
+1 localhost 9001
+2 localhost 9002
+3 localhost 9003
+4 localhost 9004
+
+# neighbors
+1 4
+0 2 3
+1 3
+1 2 4
+0 3
